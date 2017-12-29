@@ -1,7 +1,7 @@
 {
-  "name": "website-admin",
+  "name": "vuex-login-test",
   "version": "1.0.0",
-  "description": "师训宝官网后台",
+  "description": "vuex登录测试文件",
   "author": "王秀芳 <wangxf01@mail.open.com.cn>",
   "private": true,
   "scripts": {

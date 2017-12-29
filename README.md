@@ -1,6 +1,6 @@
 # website-admin
 
-> 师训宝官网后台
+> vuex 登录测试文件
 
 ## Build Setup
 
